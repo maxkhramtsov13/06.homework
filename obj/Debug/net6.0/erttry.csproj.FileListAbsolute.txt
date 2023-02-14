@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\WorkHoome\erttry\bin\Debug\net6.0\erttry.exe
+C:\Users\Professional\Desktop\WorkHoome\erttry\bin\Debug\net6.0\erttry.deps.json
+C:\Users\Professional\Desktop\WorkHoome\erttry\bin\Debug\net6.0\erttry.runtimeconfig.json
+C:\Users\Professional\Desktop\WorkHoome\erttry\bin\Debug\net6.0\erttry.dll
+C:\Users\Professional\Desktop\WorkHoome\erttry\bin\Debug\net6.0\erttry.pdb
+C:\Users\Professional\Desktop\WorkHoome\erttry\obj\Debug\net6.0\erttry.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\WorkHoome\erttry\obj\Debug\net6.0\erttry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\WorkHoome\erttry\obj\Debug\net6.0\erttry.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\WorkHoome\erttry\obj\Debug\net6.0\erttry.AssemblyInfo.cs
+C:\Users\Professional\Desktop\WorkHoome\erttry\obj\Debug\net6.0\erttry.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\WorkHoome\erttry\obj\Debug\net6.0\erttry.dll
+C:\Users\Professional\Desktop\WorkHoome\erttry\obj\Debug\net6.0\refint\erttry.dll
+C:\Users\Professional\Desktop\WorkHoome\erttry\obj\Debug\net6.0\erttry.pdb
+C:\Users\Professional\Desktop\WorkHoome\erttry\obj\Debug\net6.0\erttry.genruntimeconfig.cache
+C:\Users\Professional\Desktop\WorkHoome\erttry\obj\Debug\net6.0\ref\erttry.dll
